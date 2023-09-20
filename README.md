@@ -1,5 +1,12 @@
-App name: Calvin Finds
+# Calvin Finds
 
-Calvin currently lacks an efficient and organized system for managing lost and found items on campus. The absence of such a system not only leads to frustration but also results in the unnecessary loss of personal items, which could otherwise be easily recovered with a proper solution in place. Our app, Calvin Finds, aims to offer easy item reporting, streamlined item searches, real-time updates, identifiable pictures, specified locations and community engagement. 
+Calvin currently lacks an efficient and organized system for managing lost and found items on campus. Calvin's current system involves lost-and-found boxes around campus and a written record of lost items. The absence of an easily accessible, on demand system not only leads to frustration but also results in the unnecessary prolonged loss of personal items, which could otherwise be easily recovered with a better solution in place. Our app, Calvin Finds, aims to offer easy item reporting, streamlined item searches, real-time updates, identifiable pictures, specified locations and community engagement. 
 
-Existing applications are capable of serving a similar function to our app at a larger scale. However, there is no such app curated towards the Calvin community and students do not find it helpful to use an app that covers a wide area that they have not lost an item in. Our app has a focused coverage developed exclusively for Calvin, providing a more customized and secure experience that would include an authentication system for Calvin students. Unlike existing apps, which require listings to include a wide variety of personal information, our application would only require minimal information for a means of communication to be provided with a listing since all users are Calvin students. This would ensure easier setup, quick posting and secure communications. Together, we strive to empower Calvin’s community through effortless lost and found retrievals.
+Existing applications are larger scale rather than being focused solely on Calvin. Calvin students and faculty would not find it as helpful to use an app that covers a wide area when they lost their item on Calvin's campus. Unlike existing apps, our app would include an authentication system and would only require minimal personal information to be provided with a listing since all users are Calvin students. This would ensure easier setup, quick posting and secure communications. Together, we strive to empower Calvin’s community through effortless lost and found retrievals.
+
+## The A-Team: 
+- Aishwarya Joshi 
+- Branden Husted 
+- Edom Maru 
+- Harry Gu
+- Steven McKelvey 
