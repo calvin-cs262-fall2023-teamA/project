@@ -9,4 +9,7 @@ Existing applications are larger scale rather than being focused solely on Calvi
 - Branden Husted 
 - Edom Maru 
 - Harry Gu
-- Steven McKelvey 
+- Steven McKelvey
+
+#References
+- [Models](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/images)
