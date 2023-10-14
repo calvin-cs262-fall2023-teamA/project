@@ -11,5 +11,5 @@ Existing applications are larger scale rather than being focused solely on Calvi
 - Harry Gu
 - Steven McKelvey
 
-#References
+# References
 - [Models](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/images)
