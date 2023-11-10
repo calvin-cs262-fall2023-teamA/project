@@ -13,3 +13,4 @@ In contrast to existing apps that cover a broader region, our app is designed ex
 
 # References
 - [Models](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/images)
+- [Presentation](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/presentations/presentation.pptx)
