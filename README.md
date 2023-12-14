@@ -11,10 +11,18 @@ In contrast to existing apps that cover a broader region, our app is designed ex
 - Harry Gu
 - Steven McKelvey
 
-# References
-- [Models](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/images)
-- [Presentation](https://github.com/calvin-cs262-fall2023-teamA/project/blob/main/presentations/Presentation.pptx?raw=true)
-- [Test Script](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/documents)
+# Models
+- [Domain Model](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/images/DomainModel.png)
+- [UI Model](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/images/UI-Model.jpg)
+- [Deployment Diagram](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/images/DeploymentDiagram.drawio.png)
+
+# Presentations
+- [Midterm Presentation](https://github.com/calvin-cs262-fall2023-teamA/project/blob/main/presentations/Midterm_Presentation.pptx?raw=true)
+- [Final Presentation](https://github.com/calvin-cs262-fall2023-teamA/project/blob/main/presentations/Final_Presentation.pptx?raw=true)
+
+# User Testing Documents
+- [Test Script](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/documents/Usability%20Test%20Script.pdf)
+- [Test Report](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/documents/Usability%20Test%20Report.pdf)
 
 # Codebases to client and service
 - [Client](https://github.com/calvin-cs262-fall2023-teamA/client)
