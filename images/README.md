@@ -3,4 +3,4 @@
 ## UI Model:
 ![UI Model](./UI-Model.jpg)
 ## Deployment Diagram:
-![Deployment Diagram](./DeploymentDiagram.drawio.png)
+![Deployment Diagram](./DeploymentDiagram.png)
