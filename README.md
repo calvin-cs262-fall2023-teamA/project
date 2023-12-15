@@ -14,7 +14,7 @@ In contrast to existing apps that cover a broader region, our app is designed ex
 # Models
 - [Domain Model](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/images/DomainModel.png)
 - [UI Model](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/images/UI-Model.jpg)
-- [Deployment Diagram](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/images/DeploymentDiagram.drawio.png)
+- [Deployment Diagram](https://github.com/calvin-cs262-fall2023-teamA/project/tree/main/images/DeploymentDiagram.png)
 
 # Presentations
 - [Midterm Presentation](https://github.com/calvin-cs262-fall2023-teamA/project/blob/main/presentations/Midterm_Presentation.pptx?raw=true)
